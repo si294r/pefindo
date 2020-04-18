@@ -83,7 +83,7 @@
                             <wsdlFiles>
                                 <wsdlFile>cbs5bodemo2.pefindobirokredit.com/WsReport/v5.53/Service.svc.singlewsdl.wsdl</wsdlFile>
                             </wsdlFiles>
-                            <packageName>id.co.alamisharia.pefindo.bean</packageName>
+                            <!--<packageName>id.co.alamisharia.pefindo.bean</packageName>-->
                             <vmArgs>
                                 <vmArg>-Djavax.xml.accessExternalSchema=all</vmArg>
                             </vmArgs>
