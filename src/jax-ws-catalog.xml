@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/Kerjaan/Pefindo%20API/service.wsdl" uri="wsdl/service.wsdl"/>
+    <system systemId="https://cbs5bodemo2.pefindobirokredit.com/WsReport/v5.53/Service.svc?singlewsdl" uri="wsdl/cbs5bodemo2.pefindobirokredit.com/WsReport/v5.53/Service.svc.singlewsdl.wsdl"/>
+</catalog>
